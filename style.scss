@@ -291,7 +291,7 @@ section {
 
     .header-btn{
         position: absolute;
-        top: 70px;
+        top: 40px;
       
      
     }
@@ -317,7 +317,14 @@ section {
 }
 
 @media screen and (max-width: 375px){
-   
+    .header-btn{
+        position: absolute;
+        top: 50px;
+      
+     
+    }
+  
+
     .icons-container{
         position: absolute;
         bottom: 50%;
