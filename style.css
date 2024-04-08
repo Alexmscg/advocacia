@@ -143,7 +143,7 @@ header img {
 @media screen and (max-width: 425px) {
   .icons-container {
     position: absolute;
-    bottom: 55%;
+    bottom: 40%;
   }
   .icons {
     margin: 10px;
